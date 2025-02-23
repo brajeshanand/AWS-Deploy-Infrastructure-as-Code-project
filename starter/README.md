@@ -1,7 +1,7 @@
 # Infrastructure as Code Project Solution
 # Brajesh Anand
 ## Infrastructure diagram
-Below is the Infrastructure diagram that depicts the complete solution of the project created for Udagram webapp
+Below is the infrastructure diagram illustrating the end-to-end solution designed for the Udagram web application
 <img width="2002" alt="Image" src="https://github.com/user-attachments/assets/29c1216a-985a-4b64-886e-e1964e6500fe" />
 
 
@@ -13,10 +13,11 @@ Below is the Infrastructure diagram that depicts the complete solution of the pr
    /workspace/AWS-Deploy-Infrastructure-as-Code-project-1/starter
 4. To create the network stack, run the below command
 
-   sh ./stack_scripts/create_stack.sh udagram-iac network.yml network-parameters.json
+   sh ./stack_scripts/create_stack.sh UdacityNetwork network.yml network-parameters.json
+   Note : wait for stack to come into CREATE_COMPLETE status
 5. To create the Webapp stack, run the below command
 
-   sh ./stack_scripts/create_stack.sh udagram-webapp udagram.yml udagram-parameters.json
+   sh ./stack_scripts/create_stack.sh UdacityUdagram udagram.yml udagram-parameters.json
 
 Outputs
 1. To verify the output of each stack, go to the Resources tab of both the stacks and verify the resources that are created.
