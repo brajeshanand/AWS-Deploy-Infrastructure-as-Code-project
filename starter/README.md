@@ -2,7 +2,7 @@
 # Brajesh Anand
 ## Infrastructure diagram
 Below is the Infrastructure diagram that depicts the complete solution of the project created for Udagram webapp
-<img width="2002" alt="udacity_udagram_network" src="https://github.com/brajeshanand/AWS-Deploy-Infrastructure-as-Code-project/blob/master/starter/Infrastructure-diagram/udacity_udagram_network.png">
+<img width="2002" alt="Image" src="https://github.com/user-attachments/assets/29c1216a-985a-4b64-886e-e1964e6500fe" />
 
 
 ## Spin up instructions
@@ -22,9 +22,9 @@ Outputs
 1. To verify the output of each stack, go to the Resources tab of both the stacks and verify the resources that are created.
 2. Final output i.e. Udagram app can be checked at below URL.
  
-  http://udacit-webap-ecjwwhxvnjgp-2106369611.us-east-1.elb.amazonaws.com
+   [udagra-WebAp-ZjDrh9VOCZTj-635695716.us-east-1.elb.amazonaws.com](http://udagra-webap-zjdrh9vocztj-635695716.us-east-1.elb.amazonaws.com/)
 3. Below is the screenshot of the udagram webapp:
-   <img width="622" alt="image" src="https://github.com/user-attachments/assets/2957ca5e-30c8-400f-8533-d8d2ac038565">
+   <img width="953" alt="Image" src="https://github.com/user-attachments/assets/249c35e1-1b4f-4e4d-9f27-063ea08c614d" />
 
 
 
