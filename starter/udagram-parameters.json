@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Udacity-IaC"
+    },
+	{
+        "ParameterKey": "AMIId",
+        "ParameterValue": "ami-0557a15b87f6559cf"
+    },
+	{
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.micro"
+    },
+    {
+        "ParameterKey": "VolumeSize",
+        "ParameterValue": "10"
+    },
+    {
+	    "ParameterKey": "S3BucketName",
+	    "ParameterValue": "udacity-s3bucket"
+    }
+]
