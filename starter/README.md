@@ -22,7 +22,7 @@ Outputs
 1. To verify the output of each stack, go to the Resources tab of both the stacks and verify the resources that are created.
 2. Final output i.e. Udagram app can be checked at below URL.
  
-   [udagra-WebAp-ZjDrh9VOCZTj-635695716.us-east-1.elb.amazonaws.com](http://udagra-webap-zjdrh9vocztj-635695716.us-east-1.elb.amazonaws.com/)
+   [udacit-webap-ecjwwhxvnjgp-2106369611.us-east-1.elb.amazonaws.com](http://Udacit-WebAp-ecjWWhXvNjGp-2106369611.us-east-1.elb.amazonaws.com)
 3. Below is the screenshot of the udagram webapp:
    <img width="953" alt="Image" src="https://github.com/user-attachments/assets/249c35e1-1b4f-4e4d-9f27-063ea08c614d" />
 
